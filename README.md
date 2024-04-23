@@ -3,7 +3,7 @@
 [ShopJunkieProject- GithubLink](https://github.com/Madhuram52/ShopJunkie)   - This is A MERN Stack Project which I Made Earlier
 
 
-<h3>Frontend-Dockerfile :</h3>
+<h2>Frontend-Dockerfile :</h2>
 
 
 **FROM node:18:** Specifies the base image as Node.js version 18.
@@ -21,7 +21,7 @@
 **ENTRYPOINT ["npm", "run", "dev"]:** Sets the command to start the application as npm run dev.
 
 
-<h3>Backend-DockerFile : </h3>
+<h2>Backend-DockerFile : </h2>
 
 **FROM node:18:** Specifies the base image as Node.js version 18.
 
